@@ -1,0 +1,16 @@
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\bin\Debug\net5.0\Static Sınıf ve Üyeler.exe
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\bin\Debug\net5.0\Static Sınıf ve Üyeler.deps.json
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\bin\Debug\net5.0\Static Sınıf ve Üyeler.runtimeconfig.json
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\bin\Debug\net5.0\Static Sınıf ve Üyeler.runtimeconfig.dev.json
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\bin\Debug\net5.0\Static Sınıf ve Üyeler.dll
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\bin\Debug\net5.0\ref\Static Sınıf ve Üyeler.dll
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\bin\Debug\net5.0\Static Sınıf ve Üyeler.pdb
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\obj\Debug\net5.0\Static Sınıf ve Üyeler.csproj.AssemblyReference.cache
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\obj\Debug\net5.0\Static Sınıf ve Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\obj\Debug\net5.0\Static Sınıf ve Üyeler.AssemblyInfoInputs.cache
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\obj\Debug\net5.0\Static Sınıf ve Üyeler.AssemblyInfo.cs
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\obj\Debug\net5.0\Static Sınıf ve Üyeler.csproj.CoreCompileInputs.cache
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\obj\Debug\net5.0\Static Sınıf ve Üyeler.dll
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\obj\Debug\net5.0\ref\Static Sınıf ve Üyeler.dll
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\obj\Debug\net5.0\Static Sınıf ve Üyeler.pdb
+C:\Users\brk\Documents\patika\Static Sınıf ve Üyeler\obj\Debug\net5.0\Static Sınıf ve Üyeler.genruntimeconfig.cache
